@@ -36,6 +36,7 @@ PRODUCT_PACKAGES += \
     DownloadProviderUi \
     SystemUiBlackThemeOverlay \
     SystemUiDarkThemeOverlay \
+    SystemUiExtendedThemeOverlay \
     Email \
     ExactCalculator \
     ExternalStorageProvider \
@@ -59,6 +60,7 @@ PRODUCT_PACKAGES += \
     Settings \
     SettingsBlackThemeOverlay \
     SettingsDarkThemeOverlay \
+    SettingsExtendedThemeOverlay \
     SharedStorageBackup \
     StorageManager \
     SubstratumService \
